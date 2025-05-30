@@ -1,14 +1,1 @@
-# Complete User Login & Registration system using PHP and MySQL database
-
-version: 1.0.0
-
-###UserName : elias
-###Password : 123
-
-## Full Tutorial
-
-[On Youtube](https://youtu.be/QxZxHUf7c_0)
-
-## Authors
-
-[Elias Abdurrahman](https://github.com/codingWithElias)
+Passion Beats is a Python-based e-commerce website designed for music enthusiasts to explore and purchase musical instruments and accessories. It features user-friendly navigation, secure payment integration, and a dynamic product catalog. The project showcases full-stack development skills and a passion for combining technology with music.
